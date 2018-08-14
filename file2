@@ -1,13 +1,13 @@
-body {
+body
+{
     background-color: pink;
 }
-
-h1 {
-    color: green;
-   
+h1
+{
+    color: green;   
 }
-
-p {
+p 
+{
     font-family: verdana;
     font-size: 20px;
 }
